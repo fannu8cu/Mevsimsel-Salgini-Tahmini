@@ -43,7 +43,7 @@ Kurulan modelin test verisi uzerindeki performansi oldukca basarilidir:
 
 ---
 
-### 🚀 Kurulum ve Calistirma (Installation & Usage)
+### Kurulum ve Calistirma (Installation & Usage)
 
 Projeyi kendi bilgisayarinizda calistirmak icin:
 1.  Bu repository'yi klonlayin.
@@ -52,7 +52,7 @@ Projeyi kendi bilgisayarinizda calistirmak icin:
 
 ---
 
-### 🔮 Gelecek Gelistirmeler (Future Improvements)
+### Gelecek Gelistirmeler (Future Improvements)
 
 - Daha karmasik siniflandirma modelleri (Random Forest, XGBoost) denenerek performans artisi hedeflenebilir.
 - Modele daha fazla ozellik eklenebilir.
